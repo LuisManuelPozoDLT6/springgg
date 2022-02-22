@@ -1,0 +1,8 @@
+axios
+feather-icons-react
+--save formik
+--save yup
+react-router-dom@6
+styled-components
+react-data-table-component
+sweealert2
